@@ -1,0 +1,12 @@
+h2{
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ul{
+    list-style: square;
+}
+li{
+    padding: 15px 10px;
+}
